@@ -35,7 +35,7 @@ API Endpoints
 - POST http://localhost:5000/customer/login - Login user
   ![Login User](login_user.png)
 - PUT http://localhost:5000/customer/auth/review/:isbn - Add/modify review
-  ![Add/Modify Review](add_modifyreview.png)
+  ![Add/Modify Review](addmodify_review.png)
 - DELETE http://localhost:5000/customer/auth/review/:isbn - Delete review
   ![Delete Review](delete_review.png)
 ## Author
